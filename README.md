@@ -1,2 +1,2 @@
 # Infinity
-# All the projects are sorted in categories
+### All the projects are sorted in categories
